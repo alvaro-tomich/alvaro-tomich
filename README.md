@@ -9,9 +9,9 @@
 
 - 📫 How to reach me **alvaroramos222@hotmail.com**
 
-- ⚡ Fun Fact I'm very forgetful about certain things.
+- ⚡ Fun Fact: I'm very forgetful about certain things.
 
-- ⚡ Hobbies **I really like playing games and watching movies and series.**
+- ⚡ Hobbies: **I really like playing games and watching movies and series.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
