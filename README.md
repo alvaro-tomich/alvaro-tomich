@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Álvaro Tomich</h1>
 <h3 align="center">A Web Developer Student</h3>
 
-- 🔭 I’m currently working on **Trivia Game**
+- 🔭 I’m currently studing on **Trybe**
 
 - 🌱 I’m currently learning **React, React Hooks & Redux**
 
