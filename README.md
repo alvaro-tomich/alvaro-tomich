@@ -3,15 +3,13 @@
 
 - 🔭 I’m currently studing on **Trybe**
 
-- 🌱 I’m currently learning **React, React Hooks & Redux**
+- 🌱 I’m currently learning **Node.js, Sequelize & Typescript**
 
-- 💬 Ask me about **React**
+- 💬 Ask me about **React, Node.js, Sequelize, Mysql**
 
 - 📫 How to reach me **alvaroramos222@hotmail.com**
 
-- ⚡ Fun Fact: I'm very forgetful about certain things.
-
-- ⚡ Hobbies: **I really like playing games and watching movies and series.**
+- ⚡ Hobbies: **Practice physical activity.**
 
 <hr>
 
