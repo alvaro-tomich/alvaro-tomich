@@ -1,11 +1,10 @@
 <h1 align="center">Hi 👋, I'm Álvaro Tomich</h1>
-<h3 align="center">A Web Developer Student</h3>
 
-- 🔭 I’m currently studing on **Trybe**
+- 🔭 I’m currently working on **XP**
 
-- 🌱 I’m currently learning **Node.js, Sequelize & Typescript**
+- 🌱 I’m currently working with **.NET, C#, React & Typescript**
 
-- 💬 Ask me about **React, Node.js, Sequelize, Mysql**
+- 💬 Ask me about **React, .NET, Typescript**
 
 - 📫 How to reach me **alvaroramos222@hotmail.com**
 
