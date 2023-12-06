@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Álvaro Tomich</h1>
 
-- 🔭 I’m currently working on **XP**
+- 🔭 I’m currently working on **Pic Pay**
 
-- 🌱 I’m currently working with **.NET, C#, React & Typescript**
+- 🌱 I’m currently working with **.NET, C#**
 
 - 💬 Ask me about **React, .NET, Typescript**
 
